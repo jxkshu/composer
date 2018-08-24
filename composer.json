@@ -1,0 +1,14 @@
+{
+    "name": "jxkshu/composer",
+    "description": "this is a test for leaven composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jxk",
+            "email": "1057234791@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
