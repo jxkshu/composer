@@ -1,7 +1,10 @@
 {
     "name": "jxkshu/composer",
-    "description": "this is a test for leaven composer",
+    "description": "this is a test",
     "type": "project",
+    "require": {
+        "egulias/email-validator": "^2.0@dev"
+    },
     "license": "mit",
     "authors": [
         {
@@ -9,6 +12,5 @@
             "email": "1057234791@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
